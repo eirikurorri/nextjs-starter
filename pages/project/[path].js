@@ -12,7 +12,7 @@ function Project({ project }) {
   return (
     <div className="project">
       <aside>
-        <h3>Your mind can deploy...</h3>
+        <h3>Your mind can deploy entire universes...</h3>
         <ul>
           {projects.map((project) => {
             return (
